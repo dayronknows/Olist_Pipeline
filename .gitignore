@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Data folders (never track)
+data_raw/
+data_processed/
+db/
+
+# Databricks local junk
+*.dbc
