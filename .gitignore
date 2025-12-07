@@ -13,7 +13,7 @@ venv/
 # Data folders (never track)
 data_raw/
 data_processed/
-
+db/
 
 # Databricks local junk
 *.dbc
